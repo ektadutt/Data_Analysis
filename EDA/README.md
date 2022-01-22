@@ -1,5 +1,5 @@
 # Exploratory Data Analysis
-This is my project on Data Pre-procesing project.
+This is my project on Exploratory Data Analysis project.
 
 # Project description
 
