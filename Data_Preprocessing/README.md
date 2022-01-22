@@ -3,6 +3,10 @@ This is my project on Data Pre-procesing project.
 
 # Project description
 
+# Tools & Skills
+
+# Project learnings
+
 # Assumptions
 ![](https://github.com/ektadutt/Data_Analysis/blob/main/Data_Preprocessing/Data/left%20and%20right%20brain%20(2).jpg)
 
