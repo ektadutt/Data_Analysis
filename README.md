@@ -7,4 +7,4 @@ The data already had some customers’ credit worthiness data points. Based on t
 ![](https://github.com/ektadutt/Data_Analysis/blob/main/Data_Preprocessing/Data/Picture1.png)
 
  
-![Link](https://github.com/ektadutt/Data_Analysis/tree/main/Data_Preprocessing) to the project
+[Link](https://github.com/ektadutt/Data_Analysis/tree/main/Data_Preprocessing) to the project
