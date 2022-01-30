@@ -1,6 +1,6 @@
 # Data Preprocessing
 ## Introduction
-This is one of the first projects on Data Processing. The main intention was to familiarize the following concepts:
+This is one of my first projects on Data Processing. The main intention was to familiarize the following concepts:
 - understanding the business requirement
 - opening a large data set in Python
 - develop a dataframe using Pandas
@@ -18,13 +18,13 @@ This is one of the first projects on Data Processing. The main intention was to 
 To prepare a report for a bank’s loan division based on customer’s marital status and number of children. Identify factors that impact whether they will default on a loan. 
 The data already had some customers’ credit worthiness data points. Based on the historical data, a report was created to identify which category of customers were prone to default thereby also helping the bank identify the ability of a potential borrower to repay their loan.
 
-# Languages & Libraries used
+## Languages & Libraries used
 - Python
 - Pandas
 - NLTK (SnowballStemmer)
 
 
-# Key skills learned
+## Key skills learned
 How to handle the following situations in a large dataset in Python:
 
 - Identifying data type
@@ -33,11 +33,11 @@ How to handle the following situations in a large dataset in Python:
 - Erroneous values
 - Data categorization
 
-# Project learnings
+## Keys steps followed
 
-# Assumptions
-![](https://github.com/ektadutt/Data_Analysis/blob/main/Data_Preprocessing/Data/Picture1.png)
 
-# Conclusion
 
-# Recommendations
+
+## Conclusion
+
+
