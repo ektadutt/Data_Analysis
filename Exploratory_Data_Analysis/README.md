@@ -19,9 +19,9 @@ For this project, assumption made was the categories must have at least 50 ads; 
 # Conclusion
 After removing the outliers, visualising the patterns and studying the correaltion it was identified that 
 
-1.The corelation between the price and age was negative , while with the other parameters, mileage, number of cylinders and condition it was positive.
-2.SUV and Truck have the highest number of ads. There appears to be no strong corelation between the price and the number of ads. However there is weak positive corelation. The more expensive the car , more are number of the advertisements placed on the website. 
-3.Of the 13 different types of vehicles listed on the website, SUV and trucks were identified as the vehicles of interest. Categorical and quantitative variables were studied for these 2 vehicle type.
+1. The corelation between the price and age was negative , while with the other parameters, mileage, number of cylinders and condition it was positive.
+2. SUV and Truck have the highest number of ads. There appears to be no strong corelation between the price and the number of ads. However there is weak positive corelation. The more expensive the car , more are number of the advertisements placed on the website. 
+3. Of the 13 different types of vehicles listed on the website, SUV and trucks were identified as the vehicles of interest. Categorical and quantitative variables were studied for these 2 vehicle type.
 4. The price of the car seems to be impacted by the colour of the car. 
 5. Some obvious correlations were observed. There is a positive corelation between mileage and condition with price whereas for age the corelation is negative. Between automatic and manual transmission, it is observed that manual cars have fewer outliers than automatic cars, implying that the prices of automatic cars are skewed. There are some cars which are way higher priced than the average price. Indicating that the prices are not uniform for automatic transmission as is the case for manual cars. More or less most of the cars with manual transmission fall under a fixed range.
 6. Lastly the higher the cost of the car, the longer the duration of the ad on the website  
