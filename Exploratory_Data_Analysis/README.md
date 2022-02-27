@@ -14,7 +14,7 @@ Purpose of EDA is to identify outliers, evaluate and modify the structure of dat
 This project involved analysing advertisement data for vehicles published on a website everyday. The data fields included the following fields like price, model_year, model , condition, technical specifications like cylinders, fuel type , transmission, whether the vehicle has 4-wheel drive, other parameters like mileage, paint colour, date the ad was posted, number of days the ad was listed on the website. Purpose of the project which of the above mentioned factors influence the price of the vehicle. 
 
 # Assumptions
-
+For this project, assumption made was the categories must have at least 50 ads; otherwise, their parameters won't be valid for analysis.
 
 # Conclusion
 After removing the outliers, visualising the patterns and studying the correaltion it was identified that 
