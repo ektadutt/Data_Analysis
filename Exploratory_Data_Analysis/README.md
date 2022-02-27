@@ -25,6 +25,8 @@ c.Of the 13 different types of vehicles listed on the website, SUV and trucks we
 d. The price of the car seems to be impacted by the colour of the car. 
 e. Some obvious correlations were observed. There is a positive corelation between mileage and condition with price whereas for age the corelation is negative. Between automatic and manual transmission, it is observed that manual cars have fewer outliers than automatic cars, implying that the prices of automatic cars are skewed. There are some cars which are way higher priced than the average price. Indicating that the prices are not uniform for automatic transmission as is the case for manual cars. More or less most of the cars with manual transmission fall under a fixed range.
 f. Lastly the higher the cost of the car, the longer the duration of the ad on the website  
-
+g. The typical lifetime of an advertisement extended upto 50 days.
 
 # Recommendations
+
+Typically for a car to be sold through this website , the ad should be placed for a minimum of 20 days. Also the more expensive the car the ad needs to listed for longer. To maximise the chances for a car to be sold through thid website the seller must keep the advertisement on the website for a minimum upto 50 days. Typically more expensive cars need longer to be sold. So it would be recommended to keep the advetisement for more days on the website to maximise the chances of the car to be sold. 
