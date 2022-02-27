@@ -24,7 +24,7 @@ b.SUV and Truck have the highest number of ads. There appears to be no strong co
 c.Of the 13 different types of vehicles listed on the website, SUV and trucks were identified as the vehicles of interest. Categorical and quantitative variables were studied for these 2 vehicle type.
 d. The price of the car seems to be impacted by the colour of the car. 
 e. Some obvious correlations were observed. There is a positive corelation between mileage and condition with price whereas for age the corelation is negative. Between automatic and manual transmission, it is observed that manual cars have fewer outliers than automatic cars, implying that the prices of automatic cars are skewed. There are some cars which are way higher priced than the average price. Indicating that the prices are not uniform for automatic transmission as is the case for manual cars. More or less most of the cars with manual transmission fall under a fixed range.
-f. 
+f. Lastly the higher the cost of the car, the longer the duration of the ad on the website  
 
 
 # Recommendations
